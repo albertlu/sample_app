@@ -74,7 +74,6 @@ GEM
       rspec-expectations (= 2.0.0.rc)
     rspec-rails (2.0.0.rc)
       rspec (= 2.0.0.rc)
-    spork (0.9.0.rc)
     thor (0.14.3)
     treetop (1.4.8)
       polyglot (>= 0.3.1)
@@ -93,6 +92,5 @@ DEPENDENCIES
   rails (= 3.0.0)
   rspec (= 2.0.0.rc)
   rspec-rails (= 2.0.0.rc)
-  spork (= 0.9.0.rc)
   webrat (= 0.7.1)
   win32console
